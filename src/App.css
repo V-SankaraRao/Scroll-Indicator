@@ -1,0 +1,19 @@
+.App{
+  text-align: center;
+  background-color: aqua;
+  
+}
+.container{
+  width: 100%;
+  position: fixed;
+  background-color: blue;
+}
+.data{
+  padding-top: 80px;
+}
+.bar{
+  height: 10px;
+  background-color: brown;
+  width: 30px;
+  z-index: 1;
+}
